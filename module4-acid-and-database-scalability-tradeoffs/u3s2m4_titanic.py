@@ -20,7 +20,7 @@ titanic.columns = ['Survived', 'Pclass', 'Name', 'Sex', 'Age', 'SibSp', 'Pchild'
 # Credentials
 dbname = 'tpeczybx'
 user = 'tpeczybx'  # ElephantSQL happens to use same name for db and user
-password = 'MHj8QchPbqfaVZzAx__ssO_HsyAvNp5e'  
+password = 'zzzzz'  
 host = 'isilo.db.elephantsql.com'
 
 
